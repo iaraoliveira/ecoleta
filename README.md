@@ -5,28 +5,12 @@
 
 <br>
 
-<img  src=".github/ecoleta.png"  alt="Ecoleta"  width="120">
+<img  src=".github/ecoleta.png"  alt="Ecoleta"  width="150">
 
 <br>
 
-<br>
 
 </h1>
-
-  
-
-<p align="center">
-
-<a  alt="License"  href="https://opensource.org/licenses/MIT">
-
-<img  src="https://img.shields.io/badge/License-MIT-blue.svg"  alt="License MIT">
-
-</a>
-
-<br>
-
-</p>
-
   
 
 ## :bulb: Sobre o Projeto
