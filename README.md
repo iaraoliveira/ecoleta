@@ -4,19 +4,23 @@
     <br>
 </h3>
 
-<p align="center">
+![Ecoleta](.github/ecoleta.png)
+
+<!-- <p align="center">
     Projeto desenvolvido durante as aulas da NLW (Next Level Week), disponibilizadas pela <a href="https://rocketseat.com.br"><a/>
-</p>
+</p> -->
 
 
 ## Sobre o Projeto
 
     Uma aplicação de cadastro e busca de pontos de coleta para materiais recicláveis.
 
+    
     <img alt="Imagem Capa do Projeto" title="#capa" width="600px" src=".github/capaecoleta.png">
     (O layout está disponível no **[Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/)**)
 
 <!-- ## O que é NLW? -->
+
 
 ## Tecnologias
 
