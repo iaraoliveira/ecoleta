@@ -1,21 +1,17 @@
 
- 
-<h1>
-<img  src=".github/ecoleta.png"  alt="Ecoleta"  width="250">
-</h1>
 
+<div align="center">
+	<img  src=".github/ecoleta.png"  alt="Ecoleta"  width="250">
+</div>
 
-  
 <br>
 
 ## :bulb: Sobre o Projeto
 <br>
 
 
-<div>
-
-<img  src=".github/capaecoleta.png"  alt="Capa do Projeto"  height="600">
-
+<div align="center">
+	<img  src=".github/capaecoleta.png"  alt="Capa do Projeto" width="800">
 </div>
 
 <br>
