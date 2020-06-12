@@ -46,9 +46,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ANTES DE MAIS NADA
 
-. Você precisa ter o `node.js` instalado na sua máquina;
-. Também, é necessário ter um gerenciador de pacotes seja o `npm` ou `yarn`;
-. Por último, mas não menos importante, é essencial ter o `expo` instalado de forma global na máquina;
+- Você precisa ter o `node.js` instalado na sua máquina;
+- Também, é necessário ter um gerenciador de pacotes seja o `npm` ou `yarn`;
+- Por último, mas não menos importante, é essencial ter o `expo` instalado de forma global na máquina;
 
 CLONE ESSE REPOSITÓRIO
 ```sh
@@ -64,7 +64,9 @@ EXECUTE A APLICAÇÃO
 
 $ npm install
 
-  
+```
+
+```sh  
 
 ## Crie o banco de dados
 
@@ -74,13 +76,17 @@ $ npm run knex:migrate
 
 $ npm run knex:seed
 
-  
+```
+
+```sh
 
 # Inicie a API
 
 $ npm run dev
 
-  
+```
+
+```sh
 
 # Inicie a aplicação web
 
@@ -88,7 +94,9 @@ $ cd web
 
 $ npm start
 
-  
+```
+
+```sh
 
 # Inicie a aplicação mobile
 
