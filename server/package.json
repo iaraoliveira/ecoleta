@@ -14,7 +14,7 @@
   "dependencies": {
     "@types/express": "^4.17.6",
     "express": "^4.17.1",
-    "knex": "^0.21.1",
+    "knex": "^2.4.0",
     "node-pre-gyp": "^0.15.0",
     "sqlite": "^4.0.10",
     "ts-node": "^8.10.2",
